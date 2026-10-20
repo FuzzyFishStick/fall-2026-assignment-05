@@ -1,1 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Browse magical gear, companions, provisions, apparel, and curiosities from The Moonlit Lodge."
+    />
+    <title>Store | The Moonlit Lodge</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+  </head>
 
+  <body>
+    <header class="site-header">
+      <div class="container navbar">
+        <a class="brand" href="./index.html">
+          🌙 The Moonlit <span>Lodge</span>
+        </a>
+
+        <nav aria-label="Main navigation">
+          <ul class="nav-links">
+            <li>
+              <a href="./index.html">Home</a>
+            </li>
+            <li>
+              <a href="./about.html">About</a>
+            </li>
+            <li>
+              <a class="active" href="./store.html">Store</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-header">
+        <div class="container">
+          <p class="eyebrow">The Lodge Marketplace</p>
+
+          <h1>Goods for the journey ahead.</h1>
+
+          <p>
+            Companions, equipment, provisions, apparel, and curious treasures
+            collected from across the moonlit lands.
+          </p>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Browse the shelves</p>
+
+            <h2>Moonlit Goods</h2>
+
+            <p>
+              Everything here is priced in Moonmarks. Choose carefully,
+              traveler. The road ahead may depend on it.
+            </p>
+          </div>
+
+          <div id="product-grid" class="product-grid" aria-live="polite"></div>
+
+          <div class="pagination" aria-label="Product pagination">
+            <button
+              id="prev-button"
+              class="button button-secondary"
+              type="button"
+            >
+              ← Previous
+            </button>
+
+            <span id="page-info">Page 1 of 3</span>
+
+            <button id="next-button" class="button" type="button">
+              Next →
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-content">
+        <p class="footer-brand">🌙 The Moonlit Lodge</p>
+
+        <p>Open every night. As if there were any other time.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+    <script type="module" src="./src/sparkles.js"></script>
+  </body>
+</html>

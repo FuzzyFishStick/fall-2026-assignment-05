@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Moonfang Wolf Pup",
+    "price": 249.99,
+    "category": "Companions",
+    "description": "A loyal wolf pup with silver fur that glows softly beneath the endless moonlight. Surprisingly well behaved around campfires.",
+    "imageUrl": "./images/moonfang-wolf-pup.png"
+  },
+  {
+    "id": 2,
+    "name": "Emberwing Hatchling",
+    "price": 399.99,
+    "category": "Companions",
+    "description": "A tiny dragon with ember-red wings and a fondness for warm blankets. Keep it away from the curtains.",
+    "imageUrl": "./images/emberwing-hatchling.png"
+  },
+  {
+    "id": 3,
+    "name": "Pocket Mimic",
+    "price": 129.99,
+    "category": "Companions",
+    "description": "A miniature treasure chest that follows its owner and occasionally attempts to eat loose coins. It is mostly harmless.",
+    "imageUrl": "./images/pocket-mimic.png"
+  },
+  {
+    "id": 4,
+    "name": "Dawnless Longsword",
+    "price": 189.99,
+    "category": "Gear & Tools",
+    "description": "A finely balanced steel longsword forged for knights who have never seen the sunrise. Its silver edge shines beneath the moon.",
+    "imageUrl": "./images/dawnless-longsword.png"
+  },
+  {
+    "id": 5,
+    "name": "Whisperwood Ranger's Bow",
+    "price": 159.99,
+    "category": "Gear & Tools",
+    "description": "Crafted from ancient whisperwood, this bow is nearly silent when drawn and favored by hunters of the Moonlit Forest.",
+    "imageUrl": "./images/whisperwood-bow.png"
+  },
+  {
+    "id": 6,
+    "name": "Dwarven Wayfarer's Hammer",
+    "price": 74.99,
+    "category": "Gear & Tools",
+    "description": "A sturdy traveling hammer designed by dwarven smiths. Excellent for repairs, construction, and the occasional stubborn monster.",
+    "imageUrl": "./images/dwarven-hammer.png"
+  },
+  {
+    "id": 7,
+    "name": "Cloak of the Endless Night",
+    "price": 89.99,
+    "category": "Apparel",
+    "description": "A midnight-black cloak woven with silver thread. Its deep hood keeps out cold winds and curious creatures alike.",
+    "imageUrl": "./images/endless-night-cloak.png"
+  },
+  {
+    "id": 8,
+    "name": "Dragonhide Traveler Boots",
+    "price": 119.99,
+    "category": "Apparel",
+    "description": "Durable boots crafted from ethically sourced dragonhide. Comfortable enough for long journeys and sturdy enough for rocky trails.",
+    "imageUrl": "./images/dragonhide-boots.png"
+  },
+  {
+    "id": 9,
+    "name": "Frostweave Adventurer's Gloves",
+    "price": 54.99,
+    "category": "Apparel",
+    "description": "Warm enchanted gloves woven from frost-resistant thread. Your fingers will remain cozy even on the coldest mountain pass.",
+    "imageUrl": "./images/frostweave-gloves.png"
+  },
+  {
+    "id": 10,
+    "name": "Dragonfire Jerky",
+    "price": 12.99,
+    "category": "Provisions",
+    "description": "Smoky strips of seasoned meat prepared over enchanted dragonfire. A favorite among travelers who prefer their trail food slightly dangerous.",
+    "imageUrl": "./images/dragonfire-jerky.png"
+  },
+  {
+    "id": 11,
+    "name": "Moonberry Pie",
+    "price": 18.99,
+    "category": "Provisions",
+    "description": "A sweet pastry filled with luminous blue moonberries harvested from the forest after midnight. There is always a midnight.",
+    "imageUrl": "./images/moonberry-pie.png"
+  },
+  {
+    "id": 12,
+    "name": "Elven Nightbloom Tea",
+    "price": 9.99,
+    "category": "Provisions",
+    "description": "A fragrant herbal tea brewed from flowers that bloom only beneath moonlight. Best enjoyed beside a warm lodge fireplace.",
+    "imageUrl": "./images/nightbloom-tea.png"
+  },
+  {
+    "id": 13,
+    "name": "Potion of Minor Healing",
+    "price": 24.99,
+    "category": "Curiosities",
+    "description": "A ruby-red potion that restores a small amount of strength after a difficult journey. Tastes faintly of strawberries.",
+    "imageUrl": "./images/healing-potion.png"
+  },
+  {
+    "id": 14,
+    "name": "Compass of the Lost Path",
+    "price": 79.99,
+    "category": "Curiosities",
+    "description": "An enchanted compass that points toward the path you most need to find rather than north. Results may vary.",
+    "imageUrl": "./images/lost-path-compass.png"
+  },
+  {
+    "id": 15,
+    "name": "The Last Candle",
+    "price": 66.66,
+    "category": "Curiosities",
+    "description": "A mysterious candle whose flame has never gone out. The shopkeeper refuses to explain where it came from or why it whispers at night.",
+    "imageUrl": "./images/last-candle.png"
+  }
+]
